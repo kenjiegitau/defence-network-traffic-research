@@ -1,0 +1,11 @@
+# Local/unsanitised network artifacts - review before making public
+*.pcap
+*.pcapng
+*.cap
+*.key
+*.pem
+.env
+*.log
+.DS_Store
+__pycache__/
+.venv/
