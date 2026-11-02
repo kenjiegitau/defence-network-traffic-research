@@ -1,11 +1,14 @@
 # Network Traffic Obfuscation: Security Evaluation for Defence-Oriented Environments
 
-**Applied network security research | Wireshark · Python · Encrypted traffic analysis · Network metadata**
+**Applied Network Security Research | Wireshark · Python · Encrypted Traffic Analysis · Network Metadata**
 
-**Research status:** Completed experimental case study (2026)  
-**Environment:** Controlled, virtualised network testbed — **not** a live defence or military network
+**Research status:** Completed experimental case study (2026)
 
-## Executive summary
+**Academic recognition:** First-Class graded research project | University of West London (UWL)
+
+**Environment:** Controlled, virtualised network testbed — not a live defence or military network
+
+## Executive Summary
 
 **The problem:** Encryption protects the contents of communications, but network observers can still learn from packet sizes, timings and protocol behaviour. In sensitive environments, this metadata can reveal patterns of activity even when the payload is unreadable.
 
