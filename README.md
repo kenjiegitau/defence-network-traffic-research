@@ -87,8 +87,18 @@ Lightweight obfuscation changed observable network metadata while preserving ord
 
 Read the [technical research report](research/TECHNICAL_REPORT.md) for the threat model, method, evidence, findings, limitations and engineering recommendations.
 
-## Research provenance
+## Research Provenance
 
-This professional case study is adapted from my completed 2026 university research project, *Evaluating the Effectiveness of Traffic Obfuscation Techniques Against Traffic Analysis Attacks in Defence-Oriented Network Environments*. The underlying experiments were academic and simulated; no operational defence-network access is claimed.
+This professional case study is adapted from my 2026 final-year research project, *Evaluating the Effectiveness of Traffic Obfuscation Techniques Against Traffic Analysis Attacks in Defence-Oriented Network Environments*, undertaken as part of my BSc (Hons) Cyber Security degree at the **University of West London (UWL)**.
 
-Screenshots are selected from my original research report. Original network captures and experiment code have not been included in this public package and would require review before publication.
+The research investigated network traffic obfuscation and metadata analysis within a controlled, simulated defence-oriented environment. No operational defence-network access is claimed.
+
+The underlying experiments were conducted within a controlled, simulated environment. No operational defence-network access is claimed.
+
+### Research Evidence and Reproducibility
+
+The Wireshark figures presented in this repository are derived from the original experimental research.
+
+Raw packet captures (PCAPs) and experimental scripts are not included in this public release. Any future publication of these materials would be subject to security review and appropriate sanitisation.
+
+The findings should not be interpreted as validation within operational defence networks.
